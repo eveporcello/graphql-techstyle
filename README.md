@@ -2,12 +2,12 @@
 
 ## April 2, 2021
 
-## Schema Design
+Welcome! We're so glad you're here!
 
-## Apollo Client
+## Topics
 
-## GraphQL Tooling
-
-## Authentication
-
-## Security
+- Schema Design
+- Apollo Client
+- GraphQL Tooling
+- Auth
+- Security
